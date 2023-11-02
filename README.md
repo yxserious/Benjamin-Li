@@ -3,9 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ------------------
-
-I am a fullstack developer with a focus on .NET technologies like C# and SQL server.
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+I am a Software Developer contributing to frontend and backend for building web applications
 *   🌍  I'm based in Los Angeles
 *   ✉️  You can contact me at [beier626@gmail.com](mailto:beier626@gmail.com)
 *   🚀  I'm currently working on [Ai powered chatbot that can carry automation processes](http://fulleaderclient.azurewebsites.net)
