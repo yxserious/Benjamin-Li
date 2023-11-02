@@ -7,6 +7,7 @@ Software Developer
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 I am a Software Developer contributing to frontend and backend for building web applications
+
 *   🌍  I'm based in Los Angeles
 *   ✉️  You can contact me at [beier626@gmail.com](mailto:beier626@gmail.com)
 *   🚀  I'm currently working on [Ai powered chatbot that can carry automation processes](http://fulleaderclient.azurewebsites.net)
