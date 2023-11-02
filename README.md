@@ -49,13 +49,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlhemy" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/flask" title="Git" **alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 ---
 
 ### :fire: My Stats :
 
-[[![GitHub Streak](https://streak-stats.demolab.com?user=yxserious)](https://git.io/streak-stats))
+[[![GitHub Streak](https://streak-stats.demolab.com/?user=yxserious)](https://git.io/streak-stats))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxserious&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
