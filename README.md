@@ -1,21 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges"align="center" >
-  <a href="https://www.linkedin.com/in/benjamin-li-51a9b8236/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center" > <img src="https://komarev.com/ghpvc/?username=your-Vusal-layijov&style=flat-square&color=blue" alt=""/> </div>
-<h1 align="center" >
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benjamin Li ===================================================================================================================================  Software Developer ------------------  I am a fullstack developer with a focus on .NET technologies like C# and SQL server.  * 🌍  I'm based in Los Angeles * ✉️  You can contact me at [beier626@gmail.com](mailto:beier626@gmail.com) * 🚀  I'm currently working on [Ai powered chatbot that can carry automation processes](http://fulleaderclient.azurewebsites.net) * 🧠  I'm learning react * 🤝  I'm open to collaborating on Interesting project * ⚡  I'm joker, don't tell batman
 
 ### Skills  
