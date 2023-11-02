@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges"align="center" >
-  <a href="https://www.linkedin.com/in/vusal-layijov-9a6181111/">
+  <a href="https://www.linkedin.com/in/benjamin-li-51a9b8236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[your-youtube-URL](https://www.youtube.com/channel/UCyyuABrhm4ItfMmrJECoeKw)">
@@ -23,17 +23,21 @@
 ---
 
 ### :man_technologist: About Me :
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
-- :telescope: Iam  a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :telescope: Iam a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring new technologies .
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vusal-layijov-9a6181111/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-li-51a9b8236/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -50,11 +54,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vusal-Layijov&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vusal-Layijov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Vusal-Layijov/Vusal-Layijov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yxserious&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxserious&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
